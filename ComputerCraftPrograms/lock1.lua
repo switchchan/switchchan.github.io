@@ -2,7 +2,7 @@
 allowedID = 92
  
 --Variable for which side the redstone will be at
-redstoneSide = 'right'
+redstoneSide = 'left'
  
 --Variable for which side your disk drive will be on. You can also change it to networked positions
 diskSide = 'bottom'
